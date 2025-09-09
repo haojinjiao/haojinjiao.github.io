@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiaotong Li</title>
+    <title>Haojin Jiao</title>
     <link>http://www.example.com/</link>
-    <description>Recent content on Xiaotong Li</description>
+    <description>Recent content on Haojin Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
@@ -22,7 +22,7 @@
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/about/</guid>
-      <description>&amp;ldquo;The point of inventing is to make things that don&amp;rsquo;t exist.&amp;rdquo; &amp;mdash; &amp;mdash; Rick Sanchez Hi there, I am Xiaotong Li. Currently I am a Master student in Robotics at TU Delft, the Netherlands. Before this, I completed my BEng in Nanjing University of Aeronautics and Astronautics. I prefer to seek PhD opportunity after my Master study. You can email me at xiaotongli@tudelft.nl.
+      <description>&amp;ldquo;The point of inventing is to make things that don&amp;rsquo;t exist.&amp;rdquo; &amp;mdash; &amp;mdash; Rick Sanchez Hi there, I am Haojin Jiao. Currently I am a Master student in Robotics at TU Delft, the Netherlands. Before this, I completed my BEng in Nanjing University of Aeronautics and Astronautics. I prefer to seek PhD opportunity after my Master study. You can email me at xiaotongli@tudelft.nl.
 My CV is available here.
 Here are my education experience: MSc in Robotics, 2023 ~ 2025</description>
     </item>
